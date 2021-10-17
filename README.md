@@ -3,4 +3,3 @@
 
 Ideas/Images folder is our images of mockup.
 
-Source is the workspace.
